@@ -1,0 +1,13 @@
+/home/pi/OnHackDiscord/bin/Debug/net5.0/publish/OnHackDiscord
+/home/pi/OnHackDiscord/bin/Debug/net5.0/publish/OnHackDiscord.dll
+/home/pi/OnHackDiscord/bin/Debug/net5.0/publish/OnHackDiscord.deps.json
+/home/pi/OnHackDiscord/bin/Debug/net5.0/publish/OnHackDiscord.runtimeconfig.json
+/home/pi/OnHackDiscord/bin/Debug/net5.0/publish/OnHackDiscord.pdb
+/home/pi/OnHackDiscord/bin/Debug/net5.0/publish/Discord.Net.Commands.dll
+/home/pi/OnHackDiscord/bin/Debug/net5.0/publish/Discord.Net.Core.dll
+/home/pi/OnHackDiscord/bin/Debug/net5.0/publish/Discord.Net.Rest.dll
+/home/pi/OnHackDiscord/bin/Debug/net5.0/publish/Discord.Net.Webhook.dll
+/home/pi/OnHackDiscord/bin/Debug/net5.0/publish/Discord.Net.WebSocket.dll
+/home/pi/OnHackDiscord/bin/Debug/net5.0/publish/Newtonsoft.Json.dll
+/home/pi/OnHackDiscord/bin/Debug/net5.0/publish/System.Interactive.Async.dll
+/home/pi/OnHackDiscord/bin/Debug/net5.0/publish/System.Linq.Async.dll

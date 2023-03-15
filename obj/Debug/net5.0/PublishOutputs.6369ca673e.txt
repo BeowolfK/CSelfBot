@@ -1,0 +1,13 @@
+D:\Ce PC\Bureau\Coding\OnHackDiscord\bin\Debug\net5.0\publish\OnHackDiscord.exe
+D:\Ce PC\Bureau\Coding\OnHackDiscord\bin\Debug\net5.0\publish\OnHackDiscord.dll
+D:\Ce PC\Bureau\Coding\OnHackDiscord\bin\Debug\net5.0\publish\OnHackDiscord.deps.json
+D:\Ce PC\Bureau\Coding\OnHackDiscord\bin\Debug\net5.0\publish\OnHackDiscord.runtimeconfig.json
+D:\Ce PC\Bureau\Coding\OnHackDiscord\bin\Debug\net5.0\publish\OnHackDiscord.pdb
+D:\Ce PC\Bureau\Coding\OnHackDiscord\bin\Debug\net5.0\publish\Discord.Net.Commands.dll
+D:\Ce PC\Bureau\Coding\OnHackDiscord\bin\Debug\net5.0\publish\Discord.Net.Core.dll
+D:\Ce PC\Bureau\Coding\OnHackDiscord\bin\Debug\net5.0\publish\Discord.Net.Rest.dll
+D:\Ce PC\Bureau\Coding\OnHackDiscord\bin\Debug\net5.0\publish\Discord.Net.Webhook.dll
+D:\Ce PC\Bureau\Coding\OnHackDiscord\bin\Debug\net5.0\publish\Discord.Net.WebSocket.dll
+D:\Ce PC\Bureau\Coding\OnHackDiscord\bin\Debug\net5.0\publish\Newtonsoft.Json.dll
+D:\Ce PC\Bureau\Coding\OnHackDiscord\bin\Debug\net5.0\publish\System.Interactive.Async.dll
+D:\Ce PC\Bureau\Coding\OnHackDiscord\bin\Debug\net5.0\publish\System.Linq.Async.dll
